@@ -1,0 +1,6 @@
+public enum Job {
+    PRODUCT_ENGINEER,
+    HR_CONSULTANT,
+    PRODUCT_MANAGER,
+    MARKETING_EXPERT,
+}
