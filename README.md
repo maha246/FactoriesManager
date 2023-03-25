@@ -6,4 +6,4 @@ purpose: <br>
 to practice some basic OOP concepts. <br>
 <br>
 project description: <br>
-Workers managing system for a list of factories
+Factories managing system, where each factory has workers and departments.
